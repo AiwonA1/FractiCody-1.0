@@ -1,0 +1,9 @@
+flask
+gunicorn
+transformers
+torch
+numpy
+pandas
+requests
+openai
+supabase
